@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-11052011-072066";"";
+"REFERENCE";"811-S1-006-10-014101";"";
+"TraceParts.PartTitle";"Straight SLC connector, low profile, solder tail, single row - 2.54 mm GRID";"";
+"TraceParts.InstanceId";"10-11052011-0720665DHF6EHK92UH64XKLLEDG8O38";"";
+"DESIGN";"Straight SLC connector, low profile, solder tail, single row, 6 contacts, A = 6 mm / B = 4 mm";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"preci-dip";"";
+"TraceParts.PartVersion";"1.1.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"PRECIDIP:/F_PRECIDIP/PRECIDIP.010/PRECIDIP.010.040/10-11052011-072066";"";

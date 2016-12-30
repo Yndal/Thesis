@@ -1,0 +1,50 @@
+
+Pins
+
+			1 			2 			3 			  4 		5v		Gnd
+Func	|  Type 	|  PWM	|  AnalogPin 	| IsWorking	| 		|		
+	
+
+
+
+
+
+
+
+
+
+
+
+			|	State - analog		|	PWM   	|	?
+--------------------------------------------------------------------+
+Battery		|	Measure V			| 	Relay 	|	N/A   			| 
+--------------------------------------------------------------------+
+Motor		|	Encoder (Interrupt)	|	Power	|  	N/A				|
+--------------------------------------------------------------------+
+Laser		|	Mesaure V			|	Power 	|	N/A 			|
+--------------------------------------------------------------------+
+RG-LED		|	Mesaure V			|	Power 	|	Red or Green	|
+--------------------------------------------------------------------+
+
+Pins 1st iteration: 
+	Type1: 
+	Type2: 
+	Analog1: 16
+	Analog2: 17
+	PWM1: 20
+	PWM2: 21
+	State1: 0
+	State2: 1
+
+
+Pins 2nd iteration: 
+	18 and 19, for I2C
+	Is the rest needed then???
+	Type1: 
+	Type2: 
+	Analog1: 16
+	Analog2: 17
+	PWM1: 20
+	PWM2: 21
+	State1: ?
+	State2: ?
